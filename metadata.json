@@ -1,0 +1,6 @@
+{
+  "name": "แบบสอบถามและแดชบอร์ดแรงงานสวนทุเรียน",
+  "description": "ระบบแบบสอบถามวิจัยสุขภาพของแรงงานสวนทุเรียน 9 หมู่บ้าน พร้อมแดชบอร์ดแสดงผลเรียลไทม์ และระบบบันทึกข้อมูลลง Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
